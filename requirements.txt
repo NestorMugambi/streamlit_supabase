@@ -1,6 +1,6 @@
-streamlit<=1.31.1
-supabase<=2.4.0
-statsforecast<=1.7.3
-numpy<=1.26.4
-matplotlib<=3.8.3
-pandas<=2.2.1
+streamlit==1.31.1
+supabase==2.4.0
+statsforecast==1.7.3
+numpy==1.26.4
+matplotlib==3.8.3
+pandas==2.2.1
